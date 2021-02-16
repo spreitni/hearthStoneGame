@@ -1,4 +1,5 @@
 #include "Card.hpp"
+using namespace std;
 
 int main(int argc, char** argv)
 {
@@ -11,4 +12,5 @@ int main(int argc, char** argv)
     Kirby->display();
     Cliffard->display();
     YogiBear->display();
+    printf("hello");
 }
