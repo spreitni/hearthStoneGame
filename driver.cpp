@@ -12,5 +12,5 @@ int main(int argc, char** argv)
     Kirby->display();
     Cliffard->display();
     YogiBear->display();
-    printf("hello");
+    printf("testing push.exe");
 }
